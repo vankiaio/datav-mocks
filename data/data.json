@@ -1,0 +1,28 @@
+/**
+ * test接口
+ *
+ * @url /test-api
+ */
+/*{
+  "code": 123,
+  "result|10": [
+    {
+      "uid|+1": 1,
+      "name": "@name",
+      "email": "@email"
+    }
+  ],
+  "msg": "success"
+}
+*/
+
+[
+  {
+    "name": "用户总数",
+    "value|+1": 1
+  },
+  {
+    "name": "交易总数",
+    "value|+1": 1
+  }
+]
